@@ -1,7 +1,5 @@
 # Technical Deep Dive: QUIC vs TLS Analysis
 
-**Extracted from SOP Final Report - November 2025**
-
 ---
 
 ## 1. Executive Summary
