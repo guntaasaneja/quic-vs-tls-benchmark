@@ -163,31 +163,6 @@ quic-vs-tls-benchmark/
 3. **OS scheduling**: Localhost tests eliminate network variance
 4. **Statistical validity**: Simple but repeatable methodology
 
----
-
-## 📚 For Recruiters: What This Demonstrates
-
-✅ **Network Protocol Knowledge**
-- Understanding of TCP/UDP differences
-- TLS/cryptography concepts
-- HTTP/2 vs HTTP/3 architecture
-
-✅ **Performance Analysis Skills**
-- Benchmarking methodology
-- Root cause analysis
-- Trade-off evaluation (performance vs. complexity)
-
-✅ **System-Level Understanding**
-- Kernel vs user-space implementations
-- OS optimization techniques
-- Network stack internals
-
-✅ **Research & Documentation**
-- Reproducible experiments
-- Clear visualization of results
-- Practical recommendations
-
----
 
 ## 🛠️ Technologies & Skills Demonstrated
 
@@ -222,14 +197,10 @@ quic-vs-tls-benchmark/
 
 - **Last Updated**: November 2025
 - **Python Version**: 3.13
-- **Environment**: macOS / Linux
+- **Environment**: Linux
 - **Network**: WiFi LAN setup
 - For detailed technical analysis, see [docs/analysis.md](docs/analysis.md)
 
 ---
 
-**Ready for production-grade QUIC implementations? Check out:**
-- Cloudflare's quiche
-- Google's QUIC
-- nginx QUIC support
 
