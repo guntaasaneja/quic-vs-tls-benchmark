@@ -18,7 +18,7 @@ This project provides an empirical analysis comparing **QUIC (HTTP/3)** and **TL
 ## 🧪 Experimental Setup
 
 ### Hardware & Environment
-- **OS**: macOS / Linux
+- **OS**: Linux
 - **Network Scenarios**: 
   - Same machine (localhost) testing
   - Local Area Network (LAN) testing
